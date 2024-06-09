@@ -64,6 +64,6 @@ We chose the Support Vector Classifier (SVC) due to its superior performance, pa
 The Support Vector Classifier (SVC) model achieved accurate classification of financial statement tables into their respective categories. With a balanced trade-off between accuracy, precision, recall, and generalization, the SVC model proves to be effective and reliable for this classification task. Future enhancements could involve fine-tuning the model parameters or exploring ensemble techniques to further improve performance.
 
 ## Word Cloud
-![Word Cloud]("C:\GD\Notes\DS Class\DTM15\Placement\FinacPlus\Task\Word Clouds\Balance Sheets.png")
+![Word Cloud]([path/to/wordcloud/image.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/tree/main/Classified%20Word%20Clouds))
 
 In summary, This project demonstrates a robust approach to classifying financial statement documents, utilizing advanced feature engineering and machine learning techniques to achieve high accuracy and reliability in predictions.
