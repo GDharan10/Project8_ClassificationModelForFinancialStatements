@@ -65,15 +65,14 @@ We chose the Support Vector Classifier (SVC) due to its superior performance, pa
 The Support Vector Classifier (SVC) model achieved accurate classification of financial statement tables into their respective categories. With a balanced trade-off between accuracy, precision, recall, and generalization, the SVC model proves to be effective and reliable for this classification task. Future enhancements could involve fine-tuning the model parameters or exploring ensemble techniques to further improve performance.
 
 ## Word Cloud
-### Income Statements
-![Income Statements Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Balance%20Sheets.png)
-
 ### Balance Sheets
-![Balance Sheets Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Cash%20Flow.png
-)
+![Balance Sheets Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Balance%20Sheets.png)
 
 ### Cash Flows
-![Cash Flows Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Income%20Statement.png)
+![Cash Flows Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Cash%20Flow.png)
+
+### Income Statements
+![Income Statements Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Income%20Statement.png)
 
 ### Notes
 ![Notes Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Notes.png)
