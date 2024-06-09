@@ -12,19 +12,18 @@ This project aims to classify tables from financial statements into five categor
 - matplotlib
 
 ## Folder Structure
--Folder: Classified Word Clouds
-  - Contains Word Cloud images of Income Statements, Balance Sheets, Cash Flows, Notes, Others.
--Folder: **Data:** Contains the dataset and processed files.
+- **Folder: Classified Word Clouds**
+  - Contains Word Cloud images of Income Statements, Balance Sheets, Cash Flows, Notes and Others.
+- **Folder: Data:** Contains the dataset and processed files.
   - *Income Statements, Balance Sheets, Cash Flows, Notes, Others:* Each folder contains HTML files with financial statement tables.
--Folder: **Models:** Contains pickled models used for classification.
+- **Folder: Models:** Contains pickled models used for classification.
   - *Vectorization_model:* Model for text vectorization.
   - *ClassifyingFinancialStatements_model:* Model for label encoding.
   - *Financial_Statements_model:* Pre-trained classification model.
--Folder: Report
-  -file: Financial_Document_Classification_Report.pdf (Report summarizing the approach, model selection, results, and conclusion)
-  -image: ROC Curves for each class.png (ROC curve image)
+- **Folder: Report**
+  - *file: Financial_Document_Classification_Report.pdf* (Report summarizing the approach, model selection, results, and conclusion)
+  - *image: ROC Curves for each class.png* (ROC curve image)
 - **Classification_Model_For_Financial_Statements.ipynb:** Jupyter Notebook containing the code for the classification model.
-- **Financial_Document_Classification_Report.pdf:** Report summarizing the approach, model selection, results, and conclusion.
 - **README.md:** Project overview, approach, results, and conclusion.
 
 ## Approach
@@ -59,7 +58,7 @@ We chose the Support Vector Classifier (SVC) due to its superior performance, pa
    | Recall          | **97.01**      | **100.00**| **91.36**        | **87.18** | **93.33**  |
    | F1-Score        | **97.74**      | **96.77** | **92.50**        | **88.60** | **92.20**  |
 4. **ROC AUC Score:** The ROC AUC score of **98.7%** indicated excellent ability to distinguish between different document types.
-   ![ROC Curve](Report/ROC Curves for each class.png)
+   ![ROC Curve]([Report/ROC Curves for each class.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Report/ROC%20Curves%20for%20each%20class.png))
 
 ## Conclusion
 The Support Vector Classifier (SVC) model achieved accurate classification of financial statement tables into their respective categories. With a balanced trade-off between accuracy, precision, recall, and generalization, the SVC model proves to be effective and reliable for this classification task. Future enhancements could involve fine-tuning the model parameters or exploring ensemble techniques to further improve performance.
