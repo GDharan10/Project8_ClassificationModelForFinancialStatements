@@ -66,21 +66,19 @@ The Support Vector Classifier (SVC) model achieved accurate classification of fi
 
 ## Word Cloud
 ### Income Statements
-![Income Statements Word Cloud]([path/to/income_statements_wordcloud.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Balance%20Sheets.png))
+![Income Statements Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Balance%20Sheets.png)
 
 ### Balance Sheets
-![Balance Sheets Word Cloud]([path/to/balance_sheets_wordcloud.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Cash%20Flow.png
-))
+![Balance Sheets Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Cash%20Flow.png
+)
 
 ### Cash Flows
-![Cash Flows Word Cloud]([path/to/cash_flows_wordcloud.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Income%20Statement.png))
+![Cash Flows Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Income%20Statement.png)
 
 ### Notes
-![Notes Word Cloud]([path/to/notes_wordcloud.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Notes.png
-))
+![Notes Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Notes.png)
 
 ### Others
-![Others Word Cloud]([path/to/others_wordcloud.png](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Others.png))
-
+![Others Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Others.png)
 
 In summary, This project demonstrates a robust approach to classifying financial statement documents, utilizing advanced feature engineering and machine learning techniques to achieve high accuracy and reliability in predictions.
