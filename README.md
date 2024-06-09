@@ -58,11 +58,14 @@ We chose the Support Vector Classifier (SVC) due to its superior performance, pa
    | Recall          | **97.01**      | **100.00**| **91.36**        | **87.18** | **93.33**  |
    | F1-Score        | **97.74**      | **96.77** | **92.50**        | **88.60** | **92.20**  |
 4. **ROC AUC Score:** The ROC AUC score of **98.7%** indicated excellent ability to distinguish between different document types.
+
 ![ROC Curve](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Report/ROC%20Curves%20for%20each%20class.png)
 
 
 ## Conclusion
 The Support Vector Classifier (SVC) model achieved accurate classification of financial statement tables into their respective categories. With a balanced trade-off between accuracy, precision, recall, and generalization, the SVC model proves to be effective and reliable for this classification task. Future enhancements could involve fine-tuning the model parameters or exploring ensemble techniques to further improve performance.
+
+In summary, This project demonstrates a robust approach to classifying financial statement documents, utilizing advanced feature engineering and machine learning techniques to achieve high accuracy and reliability in predictions.
 
 ## Word Cloud
 ### Balance Sheets
@@ -80,4 +83,4 @@ The Support Vector Classifier (SVC) model achieved accurate classification of fi
 ### Others
 ![Others Word Cloud](https://github.com/GDharan10/Project8_ClassificationModelForFinancialStatements/blob/main/Classified%20Word%20Clouds/Others.png)
 
-In summary, This project demonstrates a robust approach to classifying financial statement documents, utilizing advanced feature engineering and machine learning techniques to achieve high accuracy and reliability in predictions.
+
