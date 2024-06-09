@@ -15,9 +15,9 @@ This project aims to classify tables from financial statements into five categor
 - **Data:** Contains the dataset and processed files.
   - *Income Statements, Balance Sheets, Cash Flows, Notes, Others:* Each folder contains HTML files with financial statement tables.
 - **Models:** Contains pickled models used for classification.
+  - *Vectorization_model:* Model for text vectorization.
   - *ClassifyingFinancialStatements_model:* Model for label encoding.
   - *Financial_Statements_model:* Pre-trained classification model.
-  - *Vectorization_model:* Model for text vectorization.
 - **Classification_Model_For_Financial_Statements.ipynb:** Jupyter Notebook containing the code for the classification model.
 - **Financial_Document_Classification_Report.pdf:** Report summarizing the approach, model selection, results, and conclusion.
 - **README.md:** Project overview, approach, results, and conclusion.
